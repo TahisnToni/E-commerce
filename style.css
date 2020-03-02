@@ -1,0 +1,141 @@
+.navbar, .container {
+    margin-top:0px;
+    padding-top: 0px;
+}
+
+.container{
+    margin-top: 100px;
+}
+.cus-div3 img, .cus-div2 img, .cus-div1 img{
+    width: 100%;
+}
+.cus-mar{
+    margin-bottom: 100px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 22px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 22px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    
+}
+.carousel-item{
+    padding: 30px 40px;
+}
+h1{
+    color: darkgrey;
+}
+h4{
+    font-size: 34px;
+    text-decoration: underline;
+    color: orange;
+   text-align: center;
+   padding-bottom: 15px;
+}
+.bnt-buy{
+    background-image: linear-gradient( to bottom,rgb(107, 106, 106)0%, rgb(14, 7, 7) 100%) ;
+    border-radius: 7px ;
+    color:white;
+    border: none;
+    padding: 9Ppx 25px;
+    cursor: pointer;
+    height: 40px;
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+
+background-color: orange;
+}
+.cat2{
+
+background-color: orchid;
+}
+ .cat3{
+background-color: palegreen;
+ }
+ .container-categories{
+     padding: 40px 0px 35px 270px;
+    width: 80%;
+    height: 50%;
+}
+.container-categories h1{
+    color: white;
+    font-size: 30px;
+}
+.container-categories img{
+    width: 90px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-deck{
+    padding: 30px;
+
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.carousel-item{
+    padding: 30px 40px;
+}
+
+}
+.bnt-buy{
+    background-image: linear-gradient( to bottom,#ff5898 0%,#ff136f 100%) ;
+    border-radius: 7px ;
+    color: rgb(80, 71, 71);
+    border: none;
+    padding: 9Ppx 25px;
+    cursor: pointer;
+    height: 40px;
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+
+background-color: orange;
+}
+.cat2{
+
+background-color: orchid;
+}
+ .cat3{
+background-color: palegreen;
+ }
+ .container-categories{
+     padding: 40px 0px 35px 270px;
+    width: 80%;
+    height: 50%;
+}
+.container-categories h1{
+    color: white;
+    font-size: 30px;
+}
+.container-categories img{
+    width: 90px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-deck{
+    padding: 30px;
+
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
